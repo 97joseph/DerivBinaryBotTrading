@@ -77,6 +77,11 @@ With the sell conditions block, you can sell your trades at the market price bef
 
 If you are just setting up a simple strategy, you can leave the optional block blank or remove it from your workspace. Your bot is good to go with just the 3 mandatory blocks.
 
+<img width="953" alt="test2" src="https://github.com/97joseph/DerivBinaryBotTrading/assets/33089347/28008495-b267-436e-b34a-4881af5f2dfc">
+
+
 In our “How to set up advanced parameters for Deriv’s trading bot” blog post, we’ll go over all the details on how to add some additional instructions to your trading bot and how to set the optional block to make the most out of the automated trading!
 
 You can also head over to Deriv Bot and practise setting up mandatory blocks on your risk-free demo account, preloaded with a 10,000 USD of virtual currency.
+
+
