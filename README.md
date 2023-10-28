@@ -1,5 +1,9 @@
 # DerivBinaryBotTrading
+
  # Tested Binary Bots
+ 
+ <img width="950" alt="Screenshot 2023-10-28 050617" src="https://github.com/97joseph/DerivBinaryBotTrading/assets/33089347/c13be102-80bd-4478-ba90-2bd57aa1e507">
+
 
 Once you log in to your Deriv account and select Deriv Bot from the platform dropdown in the top left corner, you will see the Deriv Bot’s workspace with 4 pre-set blocks in it – 3 mandatory (trade parameters, purchase condition and trade again) and 1 optional (sell condition). The mandatory blocks are essential to have your trading bot running, and the optional one gives you an opportunity to upgrade your automated trading strategy.
 
@@ -45,10 +49,13 @@ In this block, you need to add the essential parameters of your trade, such as t
 For the multipliers trade type, you’ll need to add a multiplier value and stake amount, along with take profit and stop loss amounts. Take profit and stop loss are the conditions to close the open positions.
 
 
+<img width="953" alt="test2" src="https://github.com/97joseph/DerivBinaryBotTrading/assets/33089347/be586e26-b1c1-4e02-8106-d915894de16b">
 
 # Determine your purchase conditions
 
 Purchase conditions is the most important block as it tells your bot what trade to execute. You can also select additional parameters to specify certain conditions to be met before executing a trade.
+
+
 
 # Set restart trading conditions
 
